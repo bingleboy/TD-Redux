@@ -14,4 +14,4 @@ __This probably has a hell of a lot of bugs, and doesn't entirely support locali
 
 -Bingle
 
-![A picture of the Saber logo inside of a dumpster](file:///ui/saber.png) Image by Autumnatic (Thanks Autumn :D)
+![A picture of the Saber logo inside of a dumpster](/ui/saber.png) Image by Autumnatic (Thanks Autumn :D)
